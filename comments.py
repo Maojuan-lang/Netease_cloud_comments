@@ -1,5 +1,5 @@
 # 2021/8/24 xiaoxiangxuecao
-# 前端解密后抓取网易云热评
+# 前端解密后抓取网易云热评，可以改下返回的json抓取其他评论
 
 import requests
 from Crypto.Cipher import AES
