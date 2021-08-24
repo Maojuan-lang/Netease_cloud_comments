@@ -1,4 +1,5 @@
-# 2021/8/24 To_angel
+# 2021/8/24 xiaoxiangxuecao
+# 前端解密后抓取网易云热评
 
 import requests
 from Crypto.Cipher import AES
