@@ -1,5 +1,6 @@
 # 2021/8/24 xiaoxiangxuecao
 # 前端解密后抓取网易云热评，可以改下返回的json抓取其他评论
+# 仅供学习交流，严禁用于商业用途，请于24小时内删除
 
 import requests
 from Crypto.Cipher import AES
